@@ -20,7 +20,7 @@ project/assembly_name="GoState"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/gostate/plugin.cfg")
+enabled=PackedStringArray("res://addons/GDQuest_GDScript_formatter/plugin.cfg", "res://addons/gostate/plugin.cfg")
 
 [internationalization]
 
