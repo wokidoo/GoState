@@ -1,5 +1,5 @@
 @tool
-@icon("res://addons/gostate/icons/state_machine.svg")
+@icon("res://addons/gostate/icons/go_state_machine.svg")
 class_name GoStateMachine
 extends GoState
 ## Manages multiple GoState nodes as a parent. Handles initial entry, transitions,

@@ -1,5 +1,5 @@
 @tool
-@icon("res://addons/gostate/icons/state_transition.svg")
+@icon("res://addons/gostate/icons/go_state_transition.svg")
 class_name GoStateTransition
 extends Node
 ## Represents a transition from a source [class GoState] (parent) to a destination [class GoState].

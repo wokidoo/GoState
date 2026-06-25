@@ -2,17 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://t3mnjf1o81d1"
-path="res://.godot/imported/state_machine.svg-d1c4be6f5e84cf10a766ad517f1ac54b.ctex"
+uid="uid://ddqr1m00xuykv"
+path="res://.godot/imported/go_state_transition.svg-14795b03202a92e4f8ae2eb7dbe7a9f5.ctex"
 metadata={
-"has_editor_variant": true,
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/gostate/icons/state_machine.svg"
-dest_files=["res://.godot/imported/state_machine.svg-d1c4be6f5e84cf10a766ad517f1ac54b.ctex"]
+source_file="res://addons/gostate/icons/go_state_transition.svg"
+dest_files=["res://.godot/imported/go_state_transition.svg-14795b03202a92e4f8ae2eb7dbe7a9f5.ctex"]
 
 [params]
 
@@ -24,7 +23,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
@@ -39,6 +38,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
-svg/scale=8.0
-editor/scale_with_editor_scale=true
+svg/scale=1.0
+editor/scale_with_editor_scale=false
 editor/convert_colors_with_editor_theme=false

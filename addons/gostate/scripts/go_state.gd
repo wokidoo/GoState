@@ -1,5 +1,5 @@
 @tool
-@icon("res://addons/gostate/icons/state.svg")
+@icon("res://addons/gostate/icons/go_state.svg")
 class_name GoState
 extends Node
 ## Represents a single GoState within a GoStateMachine, handling entry, exit,
