@@ -1,4 +1,6 @@
-# ➰ Gostate
+![GoState](/addons/gostate/icons/go_state_transition.svg)
+---
+# Gostate
 
 ![Godot Engine](https://img.shields.io/badge/Made%20With-Godot%204-478cbf?style=for-the-badge&logo=godotengine&logoColor=white)
 
