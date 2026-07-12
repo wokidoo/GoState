@@ -25,8 +25,6 @@
 3. Add child [`GoStateTransition`](addons/gostate/scripts/go_state_transition.gd) nodes under each state.
 4. Trigger transitions by calling `trigger_state_event(&"your_event")` on the state machine or state nodes.
 
-<img alt="image" src="image.png" />
-
 ## 📝 License
 This plugin is open-source and licensed under **MIT License**. Feel free to use, modify, and distribute it as needed.
 
